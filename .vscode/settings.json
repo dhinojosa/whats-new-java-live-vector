@@ -1,0 +1,10 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.configuration.runtimes": [
+        {
+             "name": "JavaSE-26",
+             "path": "/usr/local/openjdk-26"
+        }
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
